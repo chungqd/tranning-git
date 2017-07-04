@@ -1,0 +1,2 @@
+# tranning-git
+Learn git
